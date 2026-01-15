@@ -1,4 +1,4 @@
-# Cloud Run Functions: Qwik Start - Command Line
+# Cloud Run Functions: Command Line
 
 ## Project Description
 This project demonstrates how to create, deploy, and test a Cloud Run function using the Google Cloud Shell command line. Cloud Run functions are event-driven serverless functions that execute code in response to events such as HTTP requests, Pub/Sub messages, or Cloud Storage changes. This lab guides you through building a simple "Hello World" function triggered by Pub/Sub events.
